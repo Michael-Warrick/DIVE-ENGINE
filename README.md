@@ -1,2 +1,2 @@
 # D.I.V.E. ENGINE
-Dynamic Individual Vector Engine
+Dynamic Individual Vulkan Engine
