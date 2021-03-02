@@ -4,7 +4,7 @@
 //
 //  Created by Michael Warrick on 09/02/2021.
 
-// DIVE Engine.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// main.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #define GLFW_INCLUDE_VULKAN
