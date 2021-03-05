@@ -1,5 +1,5 @@
 # D.I.V.E. ENGINE
-Dynamic Individual Vulkan Engine or DIVE for short, is a new custom game engine with performance in mind. It started as a joke amongst a few friends when I couldn't stop complaining about the annoyances of Unity and the steep learning curve of Unreal.
+Dynamic Interpreted Vulkan Engine or DIVE for short, is a new custom game engine with performance in mind. It started as a joke amongst a few friends when I couldn't stop complaining about the annoyances of Unity and the steep learning curve of Unreal.
 
 My proposed solution was to create my own engine, which would be simple to use and very powerful. And sure this got some laughs and some taunts but, I was determined to make something great of my own.
 
